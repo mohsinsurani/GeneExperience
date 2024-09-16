@@ -9,6 +9,7 @@ __pycache__/
 env/
 *myenv/
 *.myenv/
+*data/
 
 # Jupyter Notebook Metadata
 .ipynb_checkpoints/
