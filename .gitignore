@@ -1,0 +1,21 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual Environments
+env/
+*myenv/
+*.myenv/
+
+# Jupyter Notebook Metadata
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# MacOS Files
+.DS_Store
+
+# Logs
+*.log
